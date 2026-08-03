@@ -1,3 +1,2 @@
-test.csv
-train.csv
 catboost_info/
+*.csv
