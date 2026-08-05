@@ -1,2 +1,3 @@
 catboost_info/
 *.csv
+!submission_xgboost_v2.csv
