@@ -1,0 +1,12 @@
+# Python 3.11+
+
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+catboost
+torch
+jupyter
+ipykernel
